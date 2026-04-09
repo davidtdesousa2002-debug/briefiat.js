@@ -5,9 +5,9 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/biat
 	return batExtension({
 		categories : [  
 			{
-				name : 'Black People',
+				name : 'Pessoas negras',
 				title : {
-					media : {word : 'Black People'}, //Name of the category presented in the task.
+					media : {word : 'Pessoas negras'}, //Name of the category presented in the task.
 					css : {color:'#31b404','font-size':'2em'}, //Style of the category title.
 					height : 8, //Used to position the "Or" in the combined block.
 					startStimulus : {
@@ -28,9 +28,9 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/biat
 				stimulusCss : {color:'#33FF33','font-size':'2em'}
 			},	
 			{
-				name : 'White people', //Category label.
+				name : 'Pessoas brancas', //Category label.
 				title : {
-					media : {word : 'White people'}, 
+					media : {word : 'Pessoas brancas'}, 
 					css : {color:'#31b404','font-size':'2em'}, 
 					height : 8,
 					startStimulus : {
